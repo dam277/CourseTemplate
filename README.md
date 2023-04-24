@@ -32,6 +32,8 @@
     <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Meteor.png" />
     <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Angular.png" />
     <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Three.png" />
+    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Next.png" />
+    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Vue.png" />
                                                                                      <br />
 </div>
 <div align="center">
