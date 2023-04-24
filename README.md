@@ -28,6 +28,9 @@
     <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Sfml.png" />
     <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/OpenGl.png" />
     <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/React.png" />
+    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Meteor.png" />
+    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Angular.png" />
+    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Three.png" />
                                                                                      <br />
 </div>
 <div align="center">
